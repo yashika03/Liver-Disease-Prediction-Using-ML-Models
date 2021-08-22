@@ -1,0 +1,2 @@
+# Liver-Disease-Prediction-Using-ML-Models
+This is a Machine Learning project in which I have taken dataset form UCLA of Indian patients for predicting Liver Disease using Machine Learning Models. In this I have used models like Random Forest, Naive Bayes, MLP Neural Networks, SVM, PSO-SVM. I have applied these models on the dataset and find out which model gives best accuracy. Best accuracy was shown by PSO-SVM. After applying Genetic Algorithm for feature selection on Random Forest, Naive Bayes and SVM, the best accuracy was shown by Random Forest. 
